@@ -1,28 +1,28 @@
 ---
 title: Home
 sections:
-  - section_id: hero
+  - section_id: home
     type: section_hero
     image: images/hero.png
     image_alt: App preview
-    title: This Is A Big Hero Headline
+    title: Voicity Agency
     content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+      Building Smart Cities with Voice and Chatbots. <br/>
+      Any platform, Any channel, Anywhere.
     actions:
       - label: Learn More
         url: /features
         style: primary
-  - section_id: features
+  - section_id: Services
     type: section_features
     background: gray
-    title: Features
+    title: Services
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
     features:
-      - title: The Best Feature of Your Services
-        image: images/feature1.png
+      - title: Alexa Skills
+        image: images/alexa.png
         image_alt: App preview on a phone and tablet
         content: >-
           Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
@@ -35,8 +35,8 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Awesome Feature of Your Services
-        image: images/feature2.png
+      - title: Google Actions
+        image: images/google.png
         image_alt: App users welcoming a new member
         content: >-
           Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
@@ -49,8 +49,8 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Cool Feature of Your Services
-        image: images/feature3.png
+      - title: Chatbots
+        image: images/chatbot.png
         image_alt: App user profile preview
         content: >-
           In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
@@ -90,30 +90,38 @@ sections:
         content: >-
           Integer consectetur purus neque, ac porttitor enim convallis vitae.
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
+  # - section_id: call-to-action
+  #   type: section_cta
+  #   title: This Is Call To Action Block!
+  #   subtitle: This is an optional description for the call to action block.
+  #   actions:
+  #     - label: Get Started
+  #       url: /signup
+  #       style: primary
   - section_id: call-to-action
     type: section_cta
-    title: This Is Call To Action Block!
+    title: Contact Us!
     subtitle: This is an optional description for the call to action block.
     actions:
-      - label: Get Started
-        url: /signup
+      - label: Contact Us
+        url: /contact
         style: primary
   - section_id: recent-posts
     type: section_posts
     background: gray
     title: Latest Posts
 seo:
-  title: Stackbit Azimuth Theme
-  description: The preview of the Azimuth theme
+  title: Voicity Agency
+  description: Building Smart Cities With Voice
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Azimuth Theme
+      value: Voicity Agency
       keyName: property
     - name: 'og:description'
-      value: The preview of the Azimuth theme
+      value: Building Smart Cities With Voice
       keyName: property
     - name: 'og:image'
       value: images/hero.png
@@ -122,9 +130,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Azimuth Theme
+      value: Voicity Agency
     - name: 'twitter:description'
-      value: The preview of the Azimuth theme
+      value: Building Smart Cities With Voice
     - name: 'twitter:image'
       value: images/hero.png
       relativeUrl: true

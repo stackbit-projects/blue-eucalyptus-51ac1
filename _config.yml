@@ -1,4 +1,4 @@
-title: Azimuth
+title: Voicity Agency
 baseurl: /
 permalink: '/:title/'
 collections:
@@ -14,17 +14,26 @@ header:
     - label: Home
       url: /
       style: link
-    - label: Features
+    - label: Services
       url: /features
       style: link
-    - label: Pricing
-      url: /pricing
+    # - label: Pricing
+    #   url: /pricing
+    #   style: link
+    - label: About Us
+      url: /about
       style: link
-    - label: Style Guide
-      url: /style-guide
+    - label: Blog
+      url: /blog
       style: link
-    - label: Sign Up
-      url: /signup
+    # - label: Style Guide
+    #   url: /style-guide
+    #   style: link
+    # - label: Sign Up
+    #   url: /signup
+    #   style: primary
+    - label: Contact Us
+      url: /contact
       style: primary
 footer:
   sections:
@@ -42,9 +51,9 @@ footer:
         - label: Blog
           url: /blog
           style: link
-        - label: Sign Up
-          url: /signup
-          style: link
+        # - label: Sign Up
+        #   url: /signup
+        #   style: link
         - label: Contact
           url: /contact
           style: link
@@ -114,4 +123,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
-domain: 'https://blue-eucalyptus-51ac1.netlify.app'
+domain: 'https://vocity.agency'
