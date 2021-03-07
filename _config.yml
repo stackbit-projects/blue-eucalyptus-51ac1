@@ -114,3 +114,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
+domain: 'https://blue-eucalyptus-51ac1.netlify.app'
