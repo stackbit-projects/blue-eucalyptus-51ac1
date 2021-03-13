@@ -1,11 +1,18 @@
 title: Voicity Agency
+domain: 'https://vocity.agency'
+url: https://vocity.agency
 baseurl: /
 permalink: '/:title/'
+
+# Collections
+# ========================================================================================
 collections:
   posts:
-    permalink: '/posts/:title/'
+    permalink: '/blog/posts/:title/'
+    output:            true
+
 base_font: nunito-sans
-palette: blue
+palette: cyan
 header:
   logo_img: images/logo.svg
   logo_img_alt: Logo
@@ -99,17 +106,55 @@ footer:
       url: /privacy-policy
       style: link
   content: >-
-    &copy; Stackbit. All rights reserved. This Jamstack site was created with <a
-    href="https://www.stackbit.com/?utm_source=deployed-footer" target="_blank"
-    rel="noopener">Stackbit</a>. Create yours <a
-    href="https://app.stackbit.com/create?theme=azimuth&utm_source=deployed-footer"
-    target="_blank" rel="noopener">now</a>.
+    Made with ❤ by Voicity Agency © 2021. All rights reserved.
 sass:
   indentWidth: 4
   style: nested
   precision: 10
+# Other Plugins
+# ---------------------------------------------------------------------------------------
+
+
+# Used for Facebook open graph
+# facebook:
+#   app_id:              <id>
+#   publisher:           <id>
+#   admins:              <id>
+
+# Used on index and about sites
+
+optional_front_matter:
+  remove_originals:    true
+
+readme_index:
+  remove_originals:    true
+  with_frontmatter:    true
+
+relative_links:
+  collections:         true
+
+titles_from_headings:
+  strip_title:         true
+  collections:         true
+
 plugins:
   - jekyll-menus
+  - jekyll-feed
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-redirect-from
+  - jekyll-relative-links
+  - jekyll-sitemap
+  - jekyll-titles-from-headings
+  - jekyll-analytics
+
+jekyll_analytics:
+  GoogleAnalytics: 
+    id: UA-192090095-1
+
+
+# File inclusion/exclusion
+# ========================================================================================
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -123,4 +168,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
-domain: 'https://vocity.agency'
+

@@ -1,9 +1,9 @@
 ---
 title: Behind the Scenes - The Design of Azimuth
-excerpt: >-
+description: >-
   Quisque ultrices metus sed libero ultricies condimentum. Suspendisse ut
   faucibus purus. Mauris at pharetra risus.
-author: _data/authors/jane-doe.yaml
+author: jane
 date: '2018-01-09'
 thumb_image: images/6_thumb.jpg
 image: images/6.jpg

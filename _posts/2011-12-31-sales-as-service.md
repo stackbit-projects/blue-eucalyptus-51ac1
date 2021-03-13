@@ -1,10 +1,10 @@
 ---
 title: Sales as a Service
 subtitle: A interesting tale about Sales
-excerpt: >-
+description: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut elementum
   purus.
-author: _data/authors/jane-doe.yaml
+author: jane
 date: '2018-01-15'
 thumb_image: images/4_thumb.jpg
 image: images/4.jpg

@@ -5,7 +5,7 @@ layout: body
 <div class="outer">
   <div class="inner">
     <div class="grid post-feed">
-      {% assign display_posts = '/blog' | get_pages | sort: 'date' | reverse %}
+      {% assign display_posts = '/posts' | get_pages | sort: 'date' | reverse %}
       {% for post in display_posts %}
       <article class="cell post">
         <div class="card">
@@ -20,7 +20,7 @@ layout: body
               <h2 class="post-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
             </header>
             <div class="post-excerpt">
-              <p>{{ post.excerpt }}</p>
+              <p>{{ post.description }}</p>
             </div>
             
             {% include blog_post_footer.html page=post date_type='short' %}

@@ -1,9 +1,9 @@
 ---
 title: How Our Design Team Collaborates
-excerpt: >-
+description: >-
   Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
   sapien blandit ac amet faucibus aliquet placerat commodo.
-author: _data/authors/jane-doe.yaml
+author: jane
 date: '2019-03-24'
 thumb_image: images/11_thumb.jpg
 image: images/11.jpg
