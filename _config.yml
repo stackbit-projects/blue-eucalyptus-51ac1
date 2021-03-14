@@ -85,6 +85,12 @@ footer:
           has_icon: true
           icon: github
           icon_position: left
+        - label: Medium
+          url: 'https://github.com/'
+          style: link
+          has_icon: true
+          icon: medium
+          icon_position: left
     - type: footer_form
       title: Subscribe
       content: Stay up to date with our latest developments.
