@@ -14,7 +14,7 @@ collections:
 base_font: nunito-sans
 palette: cyan
 header:
-  logo_img: images/voicity_logo.png
+  logo_img: images/voicity_logo.svg
   logo_img_alt: Logo
   has_nav: true
   nav_links:
@@ -45,10 +45,10 @@ header:
 footer:
   sections:
     - type: footer_text
-      image: images/logo-alt.svg
+      image: images/voicity_logo.svg
       image_url: /
       image_alt: Footer logo
-      content: Stackbit theme demo
+      content: Voicity Agency
     - type: footer_nav
       title: Company
       nav_links:
