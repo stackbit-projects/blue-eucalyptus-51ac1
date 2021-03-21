@@ -1,19 +1,19 @@
 ---
-title: Home
+title: Inicio
 sections:
-  - section_id: home
+  - section_id: Inicio
     type: section_hero
     image: images/hero.png
     image_alt: App preview
     title: Voicity Agency
     content: >-
-      Building Smart Cities with Voice and Chatbots. <br/>
-      Any platform, Any channel, Anywhere.
+      Construyendo ciudades inteligentes con voz y chatbots. <br/>
+      Cualquier plataforma, cualquier canal, en cualquier lugar.
     actions:
-      - label: Learn More
+      - label: Contáctanos
         url: /features
         style: primary
-  - section_id: Services
+  - section_id: Servicios
     type: section_features
     background: gray
     title: Services
@@ -100,10 +100,10 @@ sections:
   #       style: primary
   - section_id: call-to-action
     type: section_cta
-    title: Contact Us!
+    title: Contáctanos!
     subtitle: This is an optional description for the call to action block.
     actions:
-      - label: Contact Us
+      - label: Contactános
         url: /contact
         style: primary
   - section_id: recent-posts

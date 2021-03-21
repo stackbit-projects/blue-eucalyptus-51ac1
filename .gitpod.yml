@@ -1,2 +1,2 @@
 tasks:
-  - init:  gem install jekyll bundler && bundle install
+  - init:  gem install jekyll bundler && bundle install &&  git config pull.rebase false
