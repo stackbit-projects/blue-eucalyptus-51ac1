@@ -14,7 +14,7 @@ collections:
 base_font: nunito-sans
 palette: cyan
 header:
-  logo_img: images/voicity_logo.svg
+  logo_img: images/voicity_logo_png.png
   logo_img_alt: Logo
   has_nav: true
   nav_links:
@@ -45,7 +45,7 @@ header:
 footer:
   sections:
     - type: footer_text
-      image: images/voicity_logo.svg
+      image: images/voicity_logo_png.png
       image_url: /
       image_alt: Footer logo
       content: Voicity Agency
