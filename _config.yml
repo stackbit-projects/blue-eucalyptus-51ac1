@@ -94,11 +94,12 @@ footer:
     - type: footer_form
       title: Subscribe
       content: Stay up to date with our latest developments.
-      form_id: contactForm
+      form_id: subcriptionForm
+      form_action: https://www.getrevue.co/profile/voicityagency/add_subscriber
       hide_labels: true
       form_fields:
         - input_type: email
-          name: email
+          name: member[email]
           label: Email
           default_value: Enter email address
           is_required: true

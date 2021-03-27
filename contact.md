@@ -10,6 +10,7 @@ sections:
       quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus
       tortor pretium ligula.
     form_id: contactForm
+    form_action: https://formspree.io/f/meqvjvev
     form_fields:
       - input_type: text
         name: name
