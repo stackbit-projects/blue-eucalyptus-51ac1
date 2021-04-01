@@ -7,8 +7,8 @@ sections:
     image_alt: App preview
     title: Voicity Agency
     content: >-
-      Construyendo ciudades inteligentes con voz y chatbots. <br/>
-      Cualquier plataforma, cualquier canal, en cualquier lugar.
+      Ciudades más inteligentes mediante el uso de la voz. <br/>
+      Desarrollo de aplicaciones de voz y chatbots.
     actions:
       - label: Contáctanos
         url: /features
@@ -16,20 +16,19 @@ sections:
   - section_id: Servicios
     type: section_features
     background: gray
-    title: Services
+    title: Servicios
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Somos una agencia especializada en el diseño, prototipado y desarrollo de aplicaciones de voz y chatbots para todo tipo de plataformas.
+      Asesoramiento durante todo del proceso, desde el inicio hasta la puesta en producción.
     features:
       - title: Alexa Skills
         image: images/alexa.png
-        image_alt: App preview on a phone and tablet
+        image_alt: Alexa Skills
         content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+          Contamos con un gran expertise en el desarrollo de Alexa Skills ampliamente demostrado por la comunidad.
+          Diseñamos y desarrollamos Alexa Skills para cualquier dispositivo compatible con Amazon Alexa.
         actions:
-          - label: Learn More
+          - label: Más
             url: /features
             style: secondary
             has_icon: true
@@ -37,13 +36,11 @@ sections:
             icon_position: right
       - title: Google Actions
         image: images/google.png
-        image_alt: App users welcoming a new member
+        image_alt: Google Actions
         content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+          Diseño, prototipado y desarrollo de aplicaciones de voz para dispositivos compatibles con Google Assistant.
         actions:
-          - label: Learn More
+          - label: Más
             url: /features
             style: secondary
             has_icon: true
@@ -51,13 +48,11 @@ sections:
             icon_position: right
       - title: Chatbots
         image: images/chatbot.png
-        image_alt: App user profile preview
+        image_alt: Chatbots
         content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+          Desarrollo de chatbots para cualquier plataforma. (Whatsapp, Telegram, Slack, Facebook Messenger, Microsoft Teams, Discord, Twitch, etc.)
         actions:
-          - label: Learn More
+          - label: Más
             url: /features
             style: secondary
             has_icon: true
@@ -66,7 +61,7 @@ sections:
   - section_id: reviews
     type: section_reviews
     background: white
-    title: Testimonials
+    title: Nuestros clientes
     subtitle: >-
       Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
       semper libero id sodales.
@@ -100,8 +95,8 @@ sections:
   #       style: primary
   - section_id: call-to-action
     type: section_cta
-    title: Contáctanos!
-    subtitle: This is an optional description for the call to action block.
+    title: ¡Contáctanos!
+    subtitle: Si estás interesado en contratar nuestros servicios o tienes alguna duda. <br/> ¡No dudes en contactarnos!.
     actions:
       - label: Contactános
         url: /contact
@@ -109,10 +104,10 @@ sections:
   - section_id: recent-posts
     type: section_posts
     background: gray
-    title: Latest Posts
+    title: Últimos artículos
 seo:
   title: Voicity Agency
-  description: Building Smart Cities With Voice
+  description:  Ciudades más inteligentes mediante el uso de la voz
   extra:
     - name: 'og:type'
       value: website
@@ -121,7 +116,7 @@ seo:
       value: Voicity Agency
       keyName: property
     - name: 'og:description'
-      value: Building Smart Cities With Voice
+      value:  Ciudades más inteligentes mediante el uso de la voz
       keyName: property
     - name: 'og:image'
       value: images/hero.png
@@ -132,7 +127,7 @@ seo:
     - name: 'twitter:title'
       value: Voicity Agency
     - name: 'twitter:description'
-      value: Building Smart Cities With Voice
+      value:  Ciudades más inteligentes mediante el uso de la voz
     - name: 'twitter:image'
       value: images/hero.png
       relativeUrl: true

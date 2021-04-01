@@ -2,6 +2,7 @@
 <html lang="en">
     <head>    
         {% feed_meta %}
+        <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="fdce7788-ff29-49de-8578-8f743570b3f8" data-blockingmode="auto" type="text/javascript"></script>
         <title>{% assign title_is_not_empty = page.seo.title | is_not_empty %}{% if title_is_not_empty %}{{ page.seo.title }}{% else %}{{ page.title | append: ' | ' | append: site.title }}{% endif %}</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />

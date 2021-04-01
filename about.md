@@ -1,22 +1,21 @@
 ---
 title: Sobre nosotros
 subtitle: >-
-  This is an optional subtitle. It can be used to describe what this page is
-  about.
+  Somos una agencia especializada en desarrollo de aplicaciones de voz y chatbots conversacionales.
 image: images/about.jpg
-image_alt: Team members in a conference room
+image_alt: Sobre nosotros
 seo:
-  title: About Us
-  description: This is the about page
+  title: Sobre nosotros
+  description: Sobre nosotros
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: About Us
+      value: Sobre nosotros
       keyName: property
     - name: 'og:description'
-      value: This is the about page
+      value: Sobre nosotros
       keyName: property
     - name: 'og:image'
       value: images/about.jpg
@@ -25,9 +24,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: About Us
+      value: Sobre nosotros
     - name: 'twitter:description'
-      value: This is the about page
+      value: Sobre nosotros
     - name: 'twitter:image'
       value: images/about.jpg
       relativeUrl: true

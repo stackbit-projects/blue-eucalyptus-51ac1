@@ -1,61 +1,61 @@
 ---
-title: Contact
+title: Contacto
 sections:
-  - section_id: contact
+  - section_id: Contacto
     type: section_contact
     background: gray
-    title: Contact
+    title: Contacto
     content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus
-      tortor pretium ligula.
+      ¿Tienes alguna duda? ¿Estás interesado en alguno de nuestros servicios? ¿Quieres más información sobre algún servicio? <br/>
+      Rellena el siguiente formulario y nos pondremos en contacto contigo lo antes posible.
     form_id: contactForm
     form_action: https://formspree.io/f/meqvjvev
     form_fields:
       - input_type: text
         name: name
-        label: Name
+        label: Nombre
         is_required: true
       - input_type: email
         name: email
-        label: Email
+        label: Correo electrónico
         is_required: true
       - input_type: select
         name: subject
-        label: Subject
-        default_value: Please select
+        label: Motivo
+        default_value: Seleccione uno
         options:
-          - Error on the site
-          - Sponsorship
-          - Other
+          - Amazon Alexa
+          - Google Action
+          - Chatbot
+          - Otro
       - input_type: textarea
         name: message
-        label: Message
+        label: Mensaje
       - input_type: checkbox
-        name: consent
+        name: Consentimiento
         label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
+          Entiendo que este formulario almacena la información enviada, por lo que
+          puedo ser contactado.
         is_required: true
-    submit_label: Send Message
+    submit_label: Enviar
 seo:
-  title: Contact
-  description: This is the contact page
+  title: Contacto
+  description: Página de contacto
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Contact
+      value: Contacto
       keyName: property
     - name: 'og:description'
-      value: This is the contact page
+      value: Página de contacto
       keyName: property
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Contact
+      value: Contacto
     - name: 'twitter:description'
-      value: This is the contact page
+      value: Página de contacto
 layout: landing
 ---
