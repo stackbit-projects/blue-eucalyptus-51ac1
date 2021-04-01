@@ -106,8 +106,8 @@ footer:
       submit_label: Suscríbete
   has_nav: true
   nav_links:
-    - label: Condiciones del servicio
-      url: /terms-of-service
+    - label: Uso de Cookies
+      url: /cookies
       style: link
     - label: Política de Privacidad
       url: /privacy-policy
