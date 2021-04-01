@@ -84,3 +84,7 @@ Además, podemos utilizar la información para los siguientes propósitos:
 Solo conservaremos sus datos personales durante el tiempo que sea necesario para cumplir con los fines que los recopilamos.
 
 Para determinar el período de retención apropiado para los datos personales, consideramos la cantidad, la naturaleza y la sensibilidad de los datos personales, el riesgo potencial de daño por el uso no autorizado o la divulgación de sus datos personales, los propósitos para los cuales procesamos sus datos personales y si podemos lograr esos propósitos a través de otros medios y los requisitos legales aplicables. En cualquier caso, realizaremos una revisión anual para determinar si necesitamos conservar sus datos personales. Sus datos personales se eliminarán si ya no los necesitamos o si solicita que se eliminen.
+
+### Listado
+
+<script id="CookieDeclaration" src="https://consent.cookiebot.com/fdce7788-ff29-49de-8578-8f743570b3f8/cd.js" type="text/javascript" async></script>
