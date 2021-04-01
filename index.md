@@ -3,7 +3,7 @@ title: Inicio
 sections:
   - section_id: Inicio
     type: section_hero
-    image: images/hero.png
+    image: images/services2.png
     image_alt: App preview
     title: Voicity Agency
     content: >-
