@@ -50,6 +50,8 @@ El enfoque de esta charla es, además de aprender a cómo desarrollar una skill 
 
 Keywords: Voice, Alexa, Voice Apps, AWS, Voice First, AI.	
 
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Hecho con <a href="https://twitter.com/VoiceflowHQ?ref_src=twsrc%5Etfw">@VoiceflowHQ</a> hoy en el directo de <a href="https://twitter.com/CrossDvlup?ref_src=twsrc%5Etfw">@CrossDvlup</a> <a href="https://t.co/wVsF4dUTF0">pic.twitter.com/wVsF4dUTF0</a></p>&mdash; Xavi Portilla (@Xavidop) <a href="https://twitter.com/Xavidop/status/1367563677478641675?ref_src=twsrc%5Etfw">March 4, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 Podéis registraros [aquí](https://www.meetup.com/es/CrossDvlup/events/276104716)
 
 Os esperamos!

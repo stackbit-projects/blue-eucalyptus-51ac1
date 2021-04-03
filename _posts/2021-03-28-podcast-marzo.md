@@ -41,7 +41,7 @@ Adicionalmente, hemos aprovechado para hacer una review de una skill muy interes
 Y como siempre decimos, no te quedes sin conocer las últimas novedades. ¡Espero que disfrutes de este episodio!
 Ya está disponible en todas las plataformas de podcasts:
 
-<iframe src="https://anchor.fm/el-interior-de-alexa/embed" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/el-interior-de-alexa/embed" height="102px" width="800px" frameborder="0" scrolling="no"></iframe>
 
 
 Orginalmente publicado en Planeta Chatbot [aquí](https://planetachatbot.com/podcast-alexa-conversations-8de38068fa97)
