@@ -33,6 +33,37 @@ seo:
 layout: page
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus tortor pretium ligula, eu malesuada tortor eros dapibus mi. Proin laoreet efficitur suscipit. Donec molestie volutpat euismod. Nulla gravida ligula in eros facilisis, sed dignissim tellus aliquam. Etiam convallis enim nisi, at suscipit tortor pulvinar at. Nulla a interdum lacus. Sed a porttitor mi. Sed at risus eu orci ultricies mattis sed in tellus. Cras nec neque sed dui vehicula iaculis id vel ex. Phasellus non consectetur augue. Pellentesque condimentum sapien arcu, nec tempus nunc maximus eu. Duis blandit risus nulla. In dolor dui, placerat non finibus sit amet, venenatis pretium tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Somos una agencia especializada en el mundo de la voz desde 2019. Apasionados por las interacciones persona-computador, los chatbots conversacionales y el diseño de interfaces de voz. La palabra Innovación está dentro de nuestro ADN:
+* Miembros del equipo Hyperloop UPV desde 2016 a 2018
+* Gandores del Imagine Express 2018 organizado por el Imagine Creativity Center
+* Ganadores del Spaces Apps organizado por la NASA en 2017
+* Ganadores del primer Hacakthon de salud organizado por google en 2017
 
-Nunc a lorem tellus. Aenean eu auctor purus. Cras pulvinar, nunc at sagittis dignissim, orci elit auctor leo, et consectetur est turpis a nunc. Vivamus in faucibus felis. Aenean rutrum magna at ex auctor, congue efficitur ligula feugiat. Proin a egestas arcu. Etiam feugiat turpis quis mollis pellentesque. Sed posuere luctus tortor, a eleifend augue varius sit amet. Integer ultrices neque sed quam dictum, quis vestibulum justo volutpat. Nam vitae tempus leo, ut mattis mi.
+Hemos tenido presencia en las conferencias técnicas más importantes tanto a nivel nacional (Codemotion, NetCoreConf o Talks4Kids, etc) como internacionales (DeveloperWeek Europe, Ibericoamerican Chatbot Summit, Techwell Agile + DevOps New york).
+
+A su vez somos miembro organizadores de la <a href="https://twitter.com/ComunidadAlexa" target="_blank">Comunidad de Alexa en Español</a>. La comunidad más importante sobre desarrollo de Alexa de habla hispana del mundo.
+
+Autores del primer libro sobre desarrollo para dispositivos compatibles con Amazon Alexa titulado <a href="https://www.amazon.es/dp/B08R8X5QM5" target="_blank">La revolución de Alexa</a>.
+### Reconocimientos
+<div class="features-block bg-gray">
+    <div class="block-item grid">
+        <div class="cell block-content">
+          <div class="block-copy">
+            <img src="https://www.cloudbuilders.es/wp-content/uploads/2018/10/microsoft-azure-cloud-logo.png"/>
+          </div>
+        </div>
+        <div class="cell block-content">
+           <div class="block-copy">
+            <img src="https://dzone.com/themes/dz20/images/DZLogo.png"/>
+          </div>
+        </div>
+    </div>
+     <div class="block-item grid">
+        <div class="cell block-content" style="text-align:center">
+          <h4 >Azure Content Heroes</h4>
+        </div>
+        <div class="cell block-content" style="text-align:center">
+           <h4 class="">DZone Newcommers of 2020</h4>
+        </div>
+    </div>
+</div>
