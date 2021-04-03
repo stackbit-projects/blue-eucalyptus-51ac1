@@ -46,7 +46,7 @@ seo:
       value: Página de los servicios ofrecidos
       keyName: property
     - name: 'og:image'
-      value: images/feature1.png
+      value: images/services.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -56,7 +56,7 @@ seo:
     - name: 'twitter:description'
       value: Página de los servicios ofrecidos
     - name: 'twitter:image'
-      value: images/feature1.png
+      value: images/services.png
       relativeUrl: true
 layout: landing
 ---
