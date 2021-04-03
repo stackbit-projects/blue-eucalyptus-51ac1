@@ -1,50 +1,48 @@
 ---
-title: Sales as a Service
-subtitle: A interesting tale about Sales
+title: Nuevo episodio de nuestro podcast El Interior de Alexa
+subtitle: Descubre todas las novedades en el mundo de Alexa con este podcast
 description: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut elementum
-  purus.
-author: jane
-date: '2018-01-15'
-thumb_image: images/4_thumb.jpg
-image: images/4.jpg
+  Descubre todas las novedades en el mundo de Alexa con este podcast
+author: Xavier
+date: '2021-03-28'
+thumb_image: images/posts/podcast.png
+image: images/posts/podcast.png
 seo:
-  title: Sales as a Service
-  description: A interesting tale about Sales
+  title: Nuevo episodio de nuestro podcast El Interior de Alexa
+  description: Descubre todas las novedades en el mundo de Alexa con este podcast
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: Sales as a Service
+      value: Descubre todas las novedades en el mundo de Alexa con este podcast
       keyName: property
     - name: 'og:description'
-      value: A interesting tale about Sales
+      value: Descubre todas las novedades en el mundo de Alexa con este podcast
       keyName: property
     - name: 'og:image'
-      value: images/4.jpg
+      value: images/posts/podcast.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Sales as a Service
+      value: Nuevo episodio de nuestro podcast El Interior de Alexa
     - name: 'twitter:description'
-      value: A interesting tale about Sales
+      value: Descubre todas las novedades en el mundo de Alexa con este podcast
     - name: 'twitter:image'
-      value: images/4.jpg
+      value: images/posts/podcast.png
       relativeUrl: true
 layout: post
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut elementum purus. Aliquam mauris est, posuere vitae ornare quis, volutpat eget felis. Sed rhoncus hendrerit dapibus. Vestibulum sed turpis a turpis ultrices vehicula. Morbi vulputate eros eu vulputate maximus. Donec aliquam, nulla eget vestibulum luctus, nisi mi porttitor sem, ut varius ipsum nunc vel augue. Nam ante magna, tempor non sapien id, rhoncus vestibulum ipsum. Sed placerat quam sed rutrum efficitur. Duis diam purus, molestie viverra lectus eu, facilisis fringilla quam. Vivamus ut lectus id neque ullamcorper sollicitudin non sagittis massa. Quisque bibendum tincidunt dolor at interdum. Suspendisse vehicula quis sem et tincidunt.
+El crecimiento e importancia del mundo del audio, lejos de reducirse durante estos primeros meses del 2021, sigue presentando un crecimiento imparable. Con el objetivo de seguir analizando dicha evolución en el mundo de Amazon Alexa, desde el podcast “El interior de Alexa” volvemos con un nuevo capítulo. En este decimotercer capítulo hablamos sobre las novedades dentro del mundo de Alexa de este pasado mes, concretamente nos hemos centrado en Alexa Conversations para entender cómo funcionan. A lo lago del capítulo hablaremos sobre cómo se puede hacer un buen uso de las mismas y también del nuevo ACDL (Alexa Conversations Description Language).
+Adicionalmente, hemos aprovechado para hacer una review de una skill muy interesante. ¿Cuál es la Skill de la que hablaremos en esta ocasión? Se trata de la Skill de “Pasapalabra” del grupo Atresmedia. Sí, el famoso juego de la tele llega al asistente virtual con el objetivo de hacer que los usuarios pasen un rato divertido y puedan poner a prueba sus capacidades.
+Y como siempre decimos, no te quedes sin conocer las últimas novedades. ¡Espero que disfrutes de este episodio!
+Ya está disponible en todas las plataformas de podcasts:
 
-Donec tempor quis sapien sit amet tempor. Phasellus at erat erat. Vestibulum elementum venenatis porta. Proin non leo in ante dictum dictum. Integer suscipit euismod elit. Phasellus vel libero ante. Nunc varius felis in ex convallis, id luctus nulla feugiat. Proin imperdiet dictum erat, sed egestas augue elementum at. Nunc vel feugiat dolor. Cras et laoreet lorem. Aenean elementum tempor malesuada. Morbi quis commodo augue. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce ac pellentesque velit.
+<iframe src="https://anchor.fm/el-interior-de-alexa/embed" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
-Mauris a rhoncus purus, ac tincidunt dui. Phasellus lobortis rhoncus dolor, egestas hendrerit lorem lobortis nec. Duis eu condimentum felis. In eros mi, accumsan vitae nisl non, ultricies luctus risus. Proin vitae libero lacus. Nullam ut efficitur magna. Praesent quis eros ac augue blandit ultrices eu et leo. Sed molestie enim ipsum, et auctor diam suscipit vitae. Curabitur sed nisi sit amet lorem feugiat sodales. Etiam elementum ornare nisl eget porta. Donec nec facilisis lorem. Duis luctus elit eu purus fermentum, id pharetra nibh porttitor. Phasellus vel libero non erat mattis viverra.
 
-Donec et eros euismod tellus congue bibendum vitae sit amet lacus. Nam tempus at nunc eget elementum. Quisque tincidunt diam nulla, eget finibus risus dignissim ut. Fusce eget tincidunt mi, sit amet sollicitudin neque. Cras facilisis ex at massa pretium, ut sollicitudin neque rutrum. Quisque tincidunt purus congue, auctor augue quis, aliquet dui. Nullam orci risus, congue non faucibus in, blandit et leo. Suspendisse eu purus blandit, ultricies orci non, accumsan velit. Suspendisse convallis nisi et vehicula congue. Etiam iaculis nisi mauris, vel ultricies erat egestas quis. Vivamus eros urna, lacinia nec elit euismod, auctor cursus elit. Nunc lobortis hendrerit efficitur. Vivamus ultricies, metus et semper aliquet, ligula elit pulvinar nisi, non ultricies eros velit id felis. Phasellus blandit felis quam, id accumsan arcu luctus non.
-
-Aliquam blandit facilisis ultricies. Ut hendrerit tellus id nunc interdum vehicula. Proin feugiat arcu a mi mattis, in semper lectus sagittis. Mauris rhoncus vestibulum magna, nec vestibulum orci porta quis. Vivamus at ante ullamcorper, commodo risus vel, facilisis diam. Vivamus nec dui bibendum mauris consectetur hendrerit. Morbi a lacus in risus convallis cursus et ut leo. Aliquam vitae aliquam justo. Curabitur efficitur sapien vel dolor mollis interdum dignissim eget lorem. Maecenas aliquam molestie felis vel sollicitudin. Nulla auctor nisl mattis sapien pulvinar, vel sollicitudin eros pellentesque. Nullam bibendum at metus ac mollis.
-
+Orginalmente publicado en Planeta Chatbot [aquí](https://planetachatbot.com/podcast-alexa-conversations-8de38068fa97)
 
