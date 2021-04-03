@@ -39,7 +39,7 @@ Somos una agencia especializada en el mundo de la voz desde 2019. Apasionados po
 * Ganadores del Spaces Apps organizado por la NASA en 2017
 * Ganadores del primer Hacakthon de salud organizado por google en 2017
 
-Hemos tenido presencia en las conferencias técnicas más importantes tanto a nivel nacional (Codemotion, NetCoreConf o Talks4Kids, etc) como internacionales (DeveloperWeek Europe, Ibericoamerican Chatbot Summit, Techwell Agile + DevOps New york).
+Hemos tenido presencia en las conferencias técnicas más importantes tanto a nivel nacional (Codemotion, NetCoreConf o Talks4Kids, etc) como internacionales (DeveloperWeek Europe, Ibericoamerican Chatbot Summit, Techwell Agile + DevOps New York).
 
 A su vez somos miembro organizadores de la <a href="https://twitter.com/ComunidadAlexa" target="_blank">Comunidad de Alexa en Español</a>. La comunidad más importante sobre desarrollo de Alexa de habla hispana del mundo.
 
