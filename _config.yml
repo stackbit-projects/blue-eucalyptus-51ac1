@@ -10,11 +10,11 @@ collections:
   posts:
     permalink: '/blog/posts/:title/'
     output:            true
-
+favicon: images/favicon.png
 base_font: nunito-sans
 palette: cyan
 header:
-  logo_img: images/voicity_logo_png.png
+  logo_img: images/voicity_logo.png
   logo_img_alt: Logo
   has_nav: true
   nav_links:
@@ -45,10 +45,10 @@ header:
 footer:
   sections:
     - type: footer_text
-      image: images/voicity_logo_png.png
+      image: images/voicity_logo_footer.png
       image_url: /
       image_alt: Footer logo
-      content: Voicity Agency
+      # content: Voicity Agency
     - type: footer_nav
       title: Agencia
       nav_links:
