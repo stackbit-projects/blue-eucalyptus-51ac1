@@ -195,3 +195,29 @@ img {
   height: auto;
   max-width: 100%;
 }
+
+.redondo {
+//    border: 2px solid grey;
+    margin: 0;
+    padding: 0;
+    border-radius: 800px;
+    overflow: hidden;
+    width: 300px; height: 300px;
+}
+
+.appear {
+  animation-duration: 3s;
+  animation-name: fadeInOut;
+}
+
+@keyframes fadeInOut {
+  from {
+    margin-top: 100%;
+    width: 100%
+  }
+
+  to {
+    margin-top: 0%;
+    width: 100%;
+  }
+}

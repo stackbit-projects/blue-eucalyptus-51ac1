@@ -44,6 +44,39 @@ Hemos tenido presencia en las conferencias técnicas más importantes tanto a ni
 A su vez somos miembro organizadores de la <a href="https://twitter.com/ComunidadAlexa" target="_blank">Comunidad de Alexa en Español</a>. La comunidad más importante sobre desarrollo de Alexa de habla hispana del mundo.
 
 Autores del primer libro sobre desarrollo para dispositivos compatibles con Amazon Alexa titulado <a href="https://www.amazon.es/dp/B08R8X5QM5" target="_blank">La revolución de Alexa</a>.
+
+### Conoce al equipo
+
+<div class="features-block bg-gray appear">
+        <div class="block-item grid">
+            <div class="cell block-content">
+            <div class="redondo">
+                <img src="/images/MAEspinosa_Voicity.JPG"/>
+            </div>
+            </div>
+            <div class="cell block-content">
+            <div class="block-copy">
+                <h4>Xavier Antoni Portilla Edo</h4>
+                <blockquote>Ingeniero informático. Desarrollador de aplicaciones de voz especializado en el diseño conversacional.</blockquote>
+            </div>
+            </div>
+        </div>
+        <div class="block-item grid">
+            <div class="cell block-content">
+            <div class="block-copy">
+                <h4>María Ángeles Espinosa Molina</h4>
+                <blockquote>Ingeniera informática. Consultora tecnológica especializada en Information Managment y robotización.</blockquote>
+            </div>
+            </div>        
+            <div class="cell block-content">
+            <div class="redondo">
+                <img src="/images/MAEspinosa_Voicity.JPG"/>
+            </div>
+            </div>
+            
+         </div>
+ </div>
+
 ### Reconocimientos
 <div class="features-block bg-gray">
     <div class="block-item grid">
