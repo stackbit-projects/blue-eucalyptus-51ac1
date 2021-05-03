@@ -47,11 +47,11 @@ Autores del primer libro sobre desarrollo para dispositivos compatibles con Amaz
 
 ### Conoce al equipo
 
-<div class="features-block bg-gray appear">
+<div class="features-block bg-gray appear_up">
         <div class="block-item grid">
             <div class="cell block-content">
             <div class="redondo">
-                <img src="/images/MAEspinosa_Voicity.JPG"/>
+                <img src="/images/XPortilla_Voicity.png"/>
             </div>
             </div>
             <div class="cell block-content">

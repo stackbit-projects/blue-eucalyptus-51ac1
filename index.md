@@ -1,7 +1,7 @@
 ---
 title: Inicio
 sections:
-  - section_id: Inicio
+  - section_id: main_inicio
     type: section_hero
     image: images/services2.png
     image_alt: Voicity Agency
@@ -13,16 +13,16 @@ sections:
       - label: Contáctanos
         url: /features
         style: primary
-  - section_id: Servicios
+  - section_id: main_servicios
     type: section_features
-    background: gray
-    title: Servicios
+    background: white
+    title: ¿Qué hacemos?
     subtitle: >-
       Somos una agencia especializada en el diseño, prototipado y desarrollo de aplicaciones de voz y chatbots para todo tipo de plataformas.
-      Asesoramiento durante todo del proceso, desde el inicio hasta la puesta en producción.
+      <br/> Te asesoramos durante todo del proceso, desde el inicio hasta la puesta en producción.
     features:
       - title: Alexa Skills
-        image: images/alexa.png
+        image: images/alexa_devices.png
         image_alt: Alexa Skills
         content: >-
           Contamos con un gran expertise en el desarrollo de Alexa Skills ampliamente demostrado por la comunidad.
@@ -35,7 +35,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Google Actions
-        image: images/google.png
+        image: images/google_devices.png
         image_alt: Google Actions
         content: >-
           Diseño, prototipado y desarrollo de aplicaciones de voz para dispositivos compatibles con Google Assistant.
@@ -47,7 +47,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Chatbots
-        image: images/chatbot.png
+        image: images/chatbot_devices.png
         image_alt: Chatbots
         content: >-
           Desarrollo de chatbots para cualquier plataforma. (Whatsapp, Telegram, Slack, Facebook Messenger, Microsoft Teams, Discord, Twitch, etc.)
@@ -60,39 +60,27 @@ sections:
             icon_position: right
   - section_id: reviews
     type: section_reviews
-    background: white
-    title: Nuestros clientes
+    background: grey
+    title: Tendencia de las aplicaciones conversacionales
     subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales.
+      Estas son algunas de las cifras que han obtenido los expertos sobre las tendencias de las voice apps y chatbots.
     reviews:
-      - author: Eric Widget
-        avatar: images/review1.jpg
-        avatar_alt: Eric Widget's photo
+      - author: Business Insider
+        avatar: images/business_insider_logo.jpg
+        avatar_alt: Business Insider foto
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-      - author: Parsley Montana
-        avatar: images/review2.jpg
-        avatar_alt: Parsley Montana's photo
+          El 80% de las compañías utilizarán chatbots para comunicarse con sus clientes en 2022.
+      - author: Instituto Nacional de Estadística
+        avatar: images/ine_logo.png
+        avatar_alt: Instituto Nacional de Estadística foto
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin, vel posuere justo laoreet.
-      - author: Jonquil Von Haggerston
-        avatar: images/review3.jpg
-        avatar_alt: Jonquil Von Haggerston's photo
+          En España el 89,5% de la población usa servicios de mensajería instantánea diariamente. 
+          El 17% ya utiliza asistentes virtuales tales como Alexa, Google Assistant, etc.
+      - author: Canalys
+        avatar: images/canalys_logo.png
+        avatar_alt: Canalys foto
         content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
-  # - section_id: call-to-action
-  #   type: section_cta
-  #   title: This Is Call To Action Block!
-  #   subtitle: This is an optional description for the call to action block.
-  #   actions:
-  #     - label: Get Started
-  #       url: /signup
-  #       style: primary
+          En 2021, se utilizarán 320 millones de asistentes de voz digitales en dispositivos de todo el mundo. Los pronósticos sugieren que para 2024, el número de asistentes de voz alcanzará los 640 millones de unidades, un crecimiento del 100%.
   - section_id: call-to-action
     type: section_cta
     title: ¡Contáctanos!

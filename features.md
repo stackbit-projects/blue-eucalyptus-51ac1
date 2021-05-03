@@ -22,7 +22,7 @@ sections:
       * Desarrollo y despliegue de **Chatbots conversacionales** para las principales plataformas (Whatsapp, Telegram, Slack, Facebook Messenger, Microsoft Teams, Discord, Twitch, etc.)
     actions:
       - label: Solicita una Demo
-        url: /contact'
+        url: /contact
         style: secondary
   - section_id: call-to-action
     type: section_cta

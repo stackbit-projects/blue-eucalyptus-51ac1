@@ -205,12 +205,12 @@ img {
     width: 300px; height: 300px;
 }
 
-.appear {
+.appear_up {
   animation-duration: 3s;
-  animation-name: fadeInOut;
+  animation-name: fadeInOut_up;
 }
 
-@keyframes fadeInOut {
+@keyframes fadeInOut_up {
   from {
     margin-top: 100%;
     width: 100%
@@ -220,4 +220,79 @@ img {
     margin-top: 0%;
     width: 100%;
   }
+}
+
+.appear_right {
+  animation-duration: 3s;
+  animation-name: fadeInOut_right;
+}
+
+@keyframes fadeInOut_right {
+  from {
+    margin-right: 100%;
+    width: 100%
+  }
+
+  to {
+    margin-right: 0%;
+    width: 100%;
+  }
+}
+
+#ayuntamiento_description.hero-block {
+  background-image: url('/images/collage_opacity.png') !important;
+  height: max-content !important;
+  /* Full height */
+  height: 500px !important;
+
+
+}
+
+#ayuntamiento_description .block-content {
+
+  text-align: center;
+  padding-top: 15%;
+  font-weight: bold;
+  max-width: 120vh !important;
+
+}
+
+#ayuntamiento_features .block-preview {
+
+  max-width: 50% !important;
+
+}
+
+#ayuntamiento_servicios .review-text::before {
+
+  content: "" !important;
+
+}
+
+#ayuntamiento_features .inner-small{
+
+  max-width: 80%;
+
+}
+
+#main_servicios .block-preview {
+
+  max-width: 40% !important;
+
+}
+
+#main_servicios .inner-small{
+
+  max-width: 80%;
+
+}
+
+#main_servicios .inner{
+
+  padding-top: 20px;
+}
+
+#main_servicios .block-header .block-title {
+
+font-size: 3em;
 }
