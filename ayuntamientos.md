@@ -114,10 +114,6 @@ sections:
       - label: Contactános
         url: /contact
         style: primary
-  - section_id: recent-posts
-    type: section_posts
-    background: gray
-    title: Últimos artículos
 seo:
   title: Voicity Agency
   description:  Ciudades más inteligentes mediante el uso de la voz
