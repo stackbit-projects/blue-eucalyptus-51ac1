@@ -18,7 +18,7 @@ seo:
       value: Sobre nosotros
       keyName: property
     - name: 'og:image'
-      value: images/about.jpg
+      value: images/favicon_bigger.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -28,7 +28,7 @@ seo:
     - name: 'twitter:description'
       value: Sobre nosotros
     - name: 'twitter:image'
-      value: images/about.jpg
+      value: images/favicon_bigger.jpg
       relativeUrl: true
 layout: page
 ---
@@ -51,7 +51,7 @@ Autores del primer libro sobre desarrollo para dispositivos compatibles con Amaz
         <div class="block-item grid">
             <div class="cell block-content">
             <div class="redondo">
-                <img src="/images/XPortilla_Voicity.png"/>
+                <img src="/images/XPortilla_Voicity_compressed.png"/>
             </div>
             </div>
             <div class="cell block-content">
@@ -70,7 +70,7 @@ Autores del primer libro sobre desarrollo para dispositivos compatibles con Amaz
             </div>        
             <div class="cell block-content">
             <div class="redondo">
-                <img src="/images/MAEspinosa_Voicity.JPG"/>
+                <img src="/images/MAEspinosa_Voicity_compressed.jpeg"/>
             </div>
             </div>
             
@@ -79,24 +79,50 @@ Autores del primer libro sobre desarrollo para dispositivos compatibles con Amaz
 
 ### Reconocimientos
 <div class="features-block bg-gray">
+<!--   Linea 1   -->
     <div class="block-item grid">
-        <div class="cell block-content">
+        <div class="cell block-content" style="text-align:center">
           <div class="block-copy">
-            <img src="https://www.cloudbuilders.es/wp-content/uploads/2018/10/microsoft-azure-cloud-logo.png"/>
+            <a href="https://www.microsoft.com/skills/azureheroes" target="_blank">
+              <img src="/images/azure.png" width="200" height="300"/>
+            </a>
           </div>
         </div>
-        <div class="cell block-content">
+        <div class="cell block-content" style="text-align:center">
            <div class="block-copy">
-            <img src="https://dzone.com/themes/dz20/images/DZLogo.png"/>
+            <a href="https://dzone.com/articles/and-the-winner-is-meet-the-2020-dzone-award-winner" target="_blank">
+              <img src="/images/dzone.png" width="200" height="300"/>
+            </a>
           </div>
         </div>
     </div>
      <div class="block-item grid">
         <div class="cell block-content" style="text-align:center">
-          <h4 >Azure Content Heroes</h4>
+          <a href="https://www.microsoft.com/skills/azureheroes" target="_blank">
+            <h4 >Azure Content Heroes</h4>
+          </a>
         </div>
         <div class="cell block-content" style="text-align:center">
-           <h4 class="">DZone Newcommers of 2020</h4>
+           <a href="https://dzone.com/articles/and-the-winner-is-meet-the-2020-dzone-award-winner" target="_blank">
+            <h4 class="">DZone Newcommers of 2020</h4>
+           </a>
+        </div>
+    </div>
+<!--   Linea 2   -->
+    <div class="block-item grid">
+        <div class="cell block-content" style="text-align:center">
+          <div class="block-copy">
+            <a href="https://aws.amazon.com/es/developer/community/community-builders/" target="_blank">
+              <img src="/images/aws.png" width="200" height="300"/>
+            </a>
+          </div>
+        </div>
+    </div>
+     <div class="block-item grid">
+        <div class="cell block-content" style="text-align:center">
+          <a href="https://aws.amazon.com/es/developer/community/community-builders/" target="_blank">
+            <h4 >AWS Community Builders</h4>
+          </a>
         </div>
     </div>
 </div>

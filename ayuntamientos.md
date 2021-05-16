@@ -3,7 +3,7 @@ title: Ayuntamientos
 sections:
   - section_id: Inicio
     type: section_hero
-    image: images/echo_device.png
+    image: images/echo_device_compressed.png
     image_alt: Voicity Agency
     title: Tu nuevo canal de comunicación para ayuntamientos y municipios
     content: >-
@@ -154,7 +154,7 @@ seo:
       value:  Ciudades más inteligentes mediante el uso de la voz
       keyName: property
     - name: 'og:image'
-      value: images/services2.png
+      value: images/echo_device_compressed.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -164,7 +164,7 @@ seo:
     - name: 'twitter:description'
       value:  Ciudades más inteligentes mediante el uso de la voz
     - name: 'twitter:image'
-      value: images/services2.png
+      value: images/echo_device_compressed.png
       relativeUrl: true
 layout: landing
 ---

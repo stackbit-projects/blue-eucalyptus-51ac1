@@ -33,15 +33,15 @@ sections:
     faq_items:
       - question: Voice & Chatbot Consulting
         answer: >-
-          **Consultoría a medida** para cada cliente y proyecto. **Asesorando** a nuestros clientes de inicio a fin para así poder **diseñar** y **desarrollar** aplicaciones basadas en **s** de manera satisfactoria.
-          Tanto dispositivos con pantalla como los **Amazon Echo Show** o **Google Nest Hub**, los **Amazon Fire TV** o las tablets **Amazon Fire HD** como
-          para dispositivos cuyo único modo de interacción es la voz, tales como los **Amazon Echo Dot** o **Google Nest Mini** o las **aplicaciones** de Alexa o Google Assistant instaladas en **dispositivos móviles**.
+          **Consultoría a medida** para cada cliente y proyecto. **Asesorando** a nuestros clientes de inicio a fin para así poder **diseñar** y **desarrollar** aplicaciones basadas en **voz** de manera satisfactoria.
+          Tanto para dispositivos con pantalla como los **Amazon Echo Show** o **Google Nest Hub**, los **Amazon Fire TV** o las tablets **Amazon Fire HD** como
+          para dispositivos cuyo único modo de interacción es la voz, tales como los **Amazon Echo Dot** o **Google Nest Mini** o las aplicaciones de Alexa o Google Assistant instaladas en **dispositivos móviles**.
       - question: Conversational Design. CxD.
         answer: >-
-          **Creamos experiencias conversacionales** para poder conseguir una alta satisfacción con los usuarios finales. Tanto para **aplicaciones basadas en voz** como para **chatbots**. **Creamos** una i**nteracción humano-computador lo más natural posible** proporcionando los mensajes mas adecuados en cada momento para los usuarios finales. También añadimos **diseño multimoda**l para poder interactuar con los usuarios mediante el uso de la voz y respaldar estos **mensajes vía voz** añadiendo **canales visuales** gracias a los dispositivos con pantalla.
+          **Creamos experiencias conversacionales** para poder conseguir una alta satisfacción con los usuarios finales. Tanto para **aplicaciones basadas en voz** como para **chatbots**. Creamos una **interacción humano-computador lo más natural posible** proporcionando los mensajes mas adecuados en cada momento para los usuarios finales. También añadimos **diseño multimodal** para poder interactuar con los usuarios mediante el uso de la voz y respaldar estos **mensajes vía voz** añadiendo **canales visuales** gracias a los dispositivos con pantalla.
       - question: Research, Monitoring & Continous improvement
         answer: >-
-          Cuando lanzamos cada proyecto, comienzan nuestras fases de **monitorización de métricas**, **búsqueda de mejoras** para poder conseguir una experiencia óptima con los usuarios. **Aterrizamos todas esas métricas para ponerlas en valor** y saber cuales son los **puntos de mejora** necesarios.
+          Cuando lanzamos cada proyecto, comienzan nuestras fases de **monitorización de métricas** y **búsqueda de mejoras** para poder conseguir una experiencia óptima con los usuarios. **Aterrizamos** todas esas métricas para ponerlas en **valor** y saber cuales son los **puntos de mejora** necesarios.
   - section_id: call-to-action
     type: section_cta
     title: ¿Estás interesado?

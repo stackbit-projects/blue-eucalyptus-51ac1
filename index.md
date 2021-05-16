@@ -22,7 +22,7 @@ sections:
       <br/> Te asesoramos durante todo del proceso, desde el inicio hasta la puesta en producción.
     features:
       - title: Alexa Skills
-        image: images/alexa_devices.png
+        image: images/alexa_devices_compressed.png
         image_alt: Alexa Skills
         content: >-
           Contamos con un gran expertise en el desarrollo de Alexa Skills ampliamente demostrado por la comunidad.
@@ -35,7 +35,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Google Actions
-        image: images/google_devices.png
+        image: images/google_devices_compressed.png
         image_alt: Google Actions
         content: >-
           Diseño, prototipado y desarrollo de aplicaciones de voz para dispositivos compatibles con Google Assistant.
@@ -47,7 +47,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Chatbots
-        image: images/chatbot_devices.png
+        image: images/chatbot_devices_compressed.png
         image_alt: Chatbots
         content: >-
           Desarrollo de chatbots para cualquier plataforma. (Whatsapp, Telegram, Slack, Facebook Messenger, Microsoft Teams, Discord, Twitch, etc.)
@@ -86,7 +86,7 @@ sections:
     title: ¡Contáctanos!
     subtitle: Si estás interesado en contratar nuestros servicios o tienes alguna duda. <br/> ¡No dudes en contactarnos!.
     actions:
-      - label: Contactános
+      - label: Solicita una Demo
         url: /contact
         style: primary
   - section_id: recent-posts
