@@ -3,7 +3,7 @@ title: Inicio
 sections:
   - section_id: main_inicio
     type: section_hero
-    image: images/services2.png
+    image: images/services2_compressed.png
     image_alt: Voicity Agency
     title: Voicity Agency
     content: >-
@@ -107,7 +107,7 @@ seo:
       value:  Ciudades más inteligentes mediante el uso de la voz
       keyName: property
     - name: 'og:image'
-      value: images/services2.png
+      value: images/services2_compressed.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -117,7 +117,7 @@ seo:
     - name: 'twitter:description'
       value:  Ciudades más inteligentes mediante el uso de la voz
     - name: 'twitter:image'
-      value: images/services2.png
+      value: images/services2_compressed.png
       relativeUrl: true
 layout: landing
 ---
