@@ -7,7 +7,7 @@ sections:
     image_alt: Voicity Agency
     title: Tu nuevo canal de comunicación para ayuntamientos y municipios
     content: >-
-      Mejora la comunicación con tus ciudadanos <br/>
+      Mejora la comunicación con la ciudadanía <br/>
       de manera natural y sencilla para todos.
     actions:
       - label: Contáctanos
@@ -18,25 +18,25 @@ sections:
     image_alt: Voicity Agency
     title: La aplicación de voz a medida para tu ayuntamiento
     content: >-
-      Las aplicaciones de voz y los chatbots puede ser completamente personalizadas para las necesidades concretas de cada localidad. Desde Voicity Agency, realizamos un desarrollo a medida para cada municipio. Los nuevos sistemas de comunicación quedará totalmente integrado con el Ayuntamiento de tal forma que su gestión será una tarea sencilla. Además, las aplicaciobes están en continua evolución. Podrás ver cómo incorporamos periódicamente mejoras y funcionalidades.
+      Las aplicaciones de voz y los chatbots pueden ser completamente personalizadas para las necesidades concretas de cada localidad. Desde Voicity Agency, realizamos un desarrollo a medida para cada municipio. El nuevo sistema de comunicación quedará totalmente integrado con el Ayuntamiento de tal forma que su gestión será una tarea sencilla. Además, las aplicaciobes están en continua evolución. Podrás ver cómo incorporamos periódicamente mejoras y funcionalidades.
   - section_id: ayuntamiento_servicios
     type: section_reviews
     background: white
     title: Servicios
     subtitle: >-
-      En Voicity Agency disponemos de varios servicios para mejorar la interacción entre el ayuntamiento y el ciudadano.
+      En Voicity Agency disponemos de varios servicios para mejorar la interacción entre el ayuntamiento y la ciudadanía.
     reviews:
       - author: Voice apps
         avatar: images/voice_apps_logo.png
         avatar_alt: voice apps's photo
         content: >-
-          Tus ciudadanos van a poder obtener toda la información del ayuntamiento en tiempo real desde sus casas gracias a estos dispositivos.
-          Simplemente preguntando "Alexa, dime las noticias" o "Alexa, ¿Que restricciones hay vigentes?" se podrá consultar esta información relevante.
+          Los habitantes del municipio van a poder obtener toda la información del ayuntamiento en tiempo real desde sus casas gracias a estos dispositivos.
+          Simplemente preguntando "Alexa, dime las noticias" o "Alexa, ¿Que restricciones hay vigentes?" y se podrá consultar esta información relevante.
       - author: Chatbots
         avatar: images/chatbot_logo.png
         avatar_alt: chatbots's photo
         content: >-
-          Gracias a los diferentes canales de difusión, se van a poder enviar actualizaciones y noticas del ayuntamiento directamente a los teléfonos de los ciudadanos. Con este servicio podrás enviar menajes de Whatsapp o comunidar cualquier noticia a través de un canal de Telegram.
+          Gracias a los diferentes canales de difusión, se van a poder enviar actualizaciones y noticas del ayuntamiento directamente a los teléfonos de la ciudadanía. Con este servicio podrás enviar menajes de Whatsapp o comunicar cualquier noticia a través de un canal de Telegram.
   - section_id: ayuntamiento_features
     type: section_features
     title: Algunas funcionalidades destacadas
@@ -48,8 +48,8 @@ sections:
         image: images/voicity_news.png
         image_alt: Alexa Skills
         content: >-
-          Comparte el último bando con tus ciudadanos.
-          Recoge las principales noticias para que los vecinos estén al corriente de las últimas novedades de tu municipio.
+          Comparte el último bando con la ciudadanía.
+          Recoge las principales noticias para que los vecinos y vecinas de tu localidad estén al corriente de las últimas novedades de tu municipio.
         actions:
           - label: Más
             url: /features
@@ -73,7 +73,7 @@ sections:
         image: images/Organizing projects-bro.png
         image_alt: Chatbots
         content: >-
-          Los vecinos pueden informarse fácilmente de los horarios y teléfonos de las administraciones e instituciones que existen en tu localidad.
+          Los vecinos y las vecinas pueden informarse fácilmente de los horarios y teléfonos de las administraciones e instituciones que existen en tu localidad.
         actions:
           - label: Más
             url: /features
@@ -85,7 +85,7 @@ sections:
         image: images/Connecting teams-bro.png
         image_alt: Chatbots
         content: >-
-          Establece un nuevo sistema de comunicación. Escucha las mejoras y sugerencias que tus vecinos tienen que decirte.
+          Establece un nuevo sistema de comunicación. Escucha las mejoras y sugerencias que los habitantes de tu localidad tienen que decirte.
         actions:
           - label: Más
             url: /features
@@ -96,7 +96,7 @@ sections:
       - title: Y mucho más
         image_alt: Chatbots
         content: >-
-          Nuestras voice apps y chatbots disponen de múltiples funcionalidades útiles para el ciudadano. 
+          Nuestras voice apps y chatbots disponen de múltiples funcionalidades útiles para la ciudadanía. 
           Nos adaptamos a las necesidades de cada ayuntamiento.
         actions:
           - label: Más
