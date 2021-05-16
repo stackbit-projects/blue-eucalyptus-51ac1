@@ -8,7 +8,7 @@ sections:
     title: Tu nuevo canal de comunicación para ayuntamientos y municipios
     content: >-
       Mejora la comunicación con la ciudadanía <br/>
-      de manera natural y sencilla para todos.
+      de una manera natural y sencilla.
     actions:
       - label: Contáctanos
         url: /features
@@ -73,7 +73,7 @@ sections:
         image: images/Organizing projects-bro.png
         image_alt: Chatbots
         content: >-
-          Los vecinos y las vecinas pueden informarse fácilmente de los horarios y teléfonos de las administraciones e instituciones que existen en tu localidad.
+          Los vecinos y vecinas pueden informarse fácilmente de los horarios y teléfonos de las administraciones e instituciones que existen en tu localidad.
         actions:
           - label: Más
             url: /features
