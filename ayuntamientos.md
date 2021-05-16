@@ -45,7 +45,7 @@ sections:
     background: gray
     features:
       - title: Noticias y Bandos
-        image: images/voicity_news.png
+        image: images/test_1.png
         image_alt: Alexa Skills
         content: >-
           Comparte el último bando con la ciudadanía.
@@ -58,7 +58,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Medidas COVID-19
-        image: images/voicity_covid.png
+        image: images/test_2.png
         image_alt: Google Actions
         content: >-
           Consulta la normativa actualizada sobre la COVID-19 en tu municipio así como las horarios, restricciones y protocolos.
@@ -70,7 +70,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Horarios y Teléfonos de Interés
-        image: images/Organizing projects-bro.png
+        image: images/test_3.png
         image_alt: Chatbots
         content: >-
           Los vecinos y vecinas pueden informarse fácilmente de los horarios y teléfonos de las administraciones e instituciones que existen en tu localidad.
@@ -82,7 +82,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Reporte de Incidencias
-        image: images/Connecting teams-bro.png
+        image: images/test_4.png
         image_alt: Chatbots
         content: >-
           Establece un nuevo sistema de comunicación. Escucha las mejoras y sugerencias que los habitantes de tu localidad tienen que decirte.
