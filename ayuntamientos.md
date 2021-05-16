@@ -105,7 +105,33 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-
+  - section_id: pricing
+    type: section_pricing
+    background: white
+    title: Características
+    subtitle: Estamos en continua evolución. Incorporamos periódicamente mejoras y nuevas funcionalidades.
+    pricing_plans:
+      - title: Gestión Sencilla
+        details: |-
+          * Podrás publicar toda la información desde el panel de gestión con tu usuario y contraseña. Es fácil e intuitivo.
+          * Al publicar el contenido aparecerá directamente en las Voice Apps y cahtbots de tal manera que todos los usuarios tendrán acceso al mismo.
+        highlight: false       
+      - title: Funcional
+        details: |-
+          * Esta App ofrece toda la información actualizada de tu localidad o comarca.
+          * Ideal para tener actualizada a toda tu ciudadanía.
+        highlight: false
+      - title: Gratuita
+        details: |-
+          * Las aplicaciones y chatbots son de activación gratuita y están disponibles para cualquier dispositivo. 
+          * Las Voice Apps están disponibles en todos los dipositivos que integren Amazon Alexa y Google Assitant.
+          * Los chatbots en todos los dispositivos que acepte la plataforma para la que se desarrolle el chatbot: Web, Android, iOS, MacOS, Windows, etc.
+        highlight: false 
+      - title: Personalizada
+        details: |-
+          * Adaptable a la imagen corporativa de tu Ayuntamiento. Personaliza colores, diálogos, interacciones y funcionalidades.
+          * Está en continuo desarrollo y podrás observar todas las mejoras a través de las actualizaciones que recibirás en tus dispositivos.  
+        highlight: false
   - section_id: call-to-action
     type: section_cta
     title: ¡Contáctanos!
