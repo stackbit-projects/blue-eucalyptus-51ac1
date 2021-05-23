@@ -54,8 +54,8 @@ Se explicarán los conceptos básicos necesarios para desarrollar una aplicació
 
 El workshop con una duración de app. 1,5h empezerá sobre las 18 00.
 
-UPDATE: a continuación os dejamos la grabación del meetup:
-![](https://www.youtube.com/watch?v=B7IU96tP4vQ)
+**UPDATE:** a continuación os dejamos la grabación del meetup:
+![](https://www.youtube.com/watch?v=B7IU96tP4vQ?width=560&height=350)
 
 
 Esperemos que os guste!
