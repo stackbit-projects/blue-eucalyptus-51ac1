@@ -32,7 +32,7 @@ Esta política cubre la recopilación, procesamiento y otro uso de datos persona
 
 Al utilizar el sitio web, acepta esta política. Para mayor información, consultas o inquietudes por favor contáctenos.
 
-**Qué recopilamos | Cómo recopilamos datos | Cookies | Cómo usamos lo que recolectamos | ¿Dónde están mis datos? | Divulgación de sus datos | Terceros | Niños | Actualizaciones y cambios | Seguridad | Sus derechos legales |**
+**Qué recopilamos / Cómo recopilamos datos / Cookies / Cómo usamos lo que recolectamos / ¿Dónde están mis datos? / Divulgación de sus datos / Terceros / Niños / Actualizaciones y cambios / Seguridad / Sus derechos legales /**
 
 ### Qué recopilamos
 

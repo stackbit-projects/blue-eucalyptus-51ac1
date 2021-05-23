@@ -157,6 +157,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-titles-from-headings
   - jekyll-analytics
+  - jekyll-spaceship
 
 jekyll_analytics:
   GoogleAnalytics: 
