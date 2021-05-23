@@ -42,7 +42,7 @@ layout: post
 A continuación os dejamos la grabación del workshop sobre desarrollo de Alexa Skills que hicimos para el Codemotion del 2021:
 ![](https://www.youtube.com/watch?v=W7o_5xP715c?width=560&height=350)
 
-En este workshop aprenderás los conocimientos básicos para desarrollar aplicaciones basadas en voz para dispositivos Alexa. Utiliamos Voiceflow como herramienta para desarrollar la Alexa Skill y explicar todos los conocimiento necesarios para el workshop. Al final del taller tendrás una Pokedex totalmente funcional y lista para usar en tus dispositivos comppatibles con Alexa.
+En este workshop aprenderás los conocimientos básicos para desarrollar aplicaciones basadas en voz para dispositivos Alexa. Utilizamos Voiceflow como herramienta para desarrollar la Alexa Skill y explicar todos los conocimiento necesarios para el workshop. Al final del taller tendrás una Pokedex totalmente funcional y lista para usar en tus dispositivos compatibles con Alexa.
 
 Si tenéis alguna duda sobre el taller estaremos encantados de poder ayudaros.
 
