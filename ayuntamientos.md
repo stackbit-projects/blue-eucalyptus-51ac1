@@ -31,7 +31,7 @@ sections:
         avatar_alt: voice apps's photo
         content: >-
           Los habitantes del municipio van a poder obtener toda la información del ayuntamiento en tiempo real desde sus casas gracias a estos dispositivos.
-          Simplemente preguntando "Alexa, dime las noticias" o "Alexa, ¿Que restricciones hay vigentes?" y se podrá consultar esta información relevante.
+          Simplemente preguntando "Alexa, dime las noticias" o "Ok Google, ¿qué restricciones hay vigentes?" y se podrá consultar esta información relevante.
       - author: Chatbots
         avatar: images/chatbot_logo.png
         avatar_alt: chatbots's photo
