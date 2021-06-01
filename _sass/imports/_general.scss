@@ -290,6 +290,16 @@ img {
 
 }
 
+@media (max-width: 1000px) {
+
+  #main_servicios .block-preview {
+
+    max-width: 90% !important;
+  
+  }
+
+}
+
 #main_servicios .inner-small{
 
   max-width: 80%;
