@@ -159,10 +159,6 @@ plugins:
   - jekyll-analytics
   - jekyll-spaceship
 
-jekyll_analytics:
-  GoogleAnalytics: 
-    id: G-114VSNM7WK
-
 
 # File inclusion/exclusion
 # ========================================================================================
